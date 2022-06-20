@@ -4,12 +4,14 @@ title   : wiki
 toc     : true
 public  : true
 comment : false
-regenerate: true
+Regenerate: true
 ---
 
 ## wiki items
 
-* [[mathjax-latex]]
+* [[todo]]
+* [[book]]
+* [[project]]
 
 ---
 
