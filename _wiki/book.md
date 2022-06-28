@@ -3,7 +3,7 @@ layout  : wiki
 title   : 요즘읽는책들
 summary : 진도관리
 date    : 2022-06-20 01:14:48 +0900
-updated : 2022-06-20 01:16:19 +0900
+updated : 2022-06-28 12:30:52 +0900
 tags    : 
 toc     : true
 public  : true
@@ -36,3 +36,4 @@ latex   : false
 * 인생학교
 # **자기개발**
 * 메모리코드
+* [[RICH_DAD]]
