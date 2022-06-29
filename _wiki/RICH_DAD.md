@@ -3,7 +3,7 @@ layout  : wiki
 title   : RICH DAD
 summary : 
 date    : 2022-06-28 12:12:36 +0900
-updated : 2022-06-28 12:30:40 +0900
+updated : 2022-06-29 01:14:26 +0900
 tags    : 
 toc     : true
 public  : true
@@ -12,6 +12,8 @@ latex   : false
 ---
 * TOC
 {:toc}
+
+* [X] 서문
 
 * [ ] Chapter 1
 * 교훈 1 부자들은 돈을 위해 일하지 않는다

@@ -14,9 +14,9 @@ Regenerate: true
 * [[project]]
     *[[Jetson_Nano_2GB_Developer_Kit]]
     *[[ESPRESSObin]]
-    *[[i.MX_8M_Plus]]
     *[[Raspberry_Pi_4]]
     *[[BeagleBone_AI]]
+    *[[IMX_8M_Plus]]
 
 ---
 
